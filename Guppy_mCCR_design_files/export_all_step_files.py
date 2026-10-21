@@ -106,3 +106,12 @@ batch_export_steps(ROOT_DIR, FILE_PATTERN)
 
 
 
+# FreeCADCmd.exe export_all_step_files.py "C:\Users\jhosk\git_repos\OpenBreatherDesignFiles\Guppy_mCCR_design_files" "*openbreather*.FCStd"
+
+
+
+# "C:\Program Files\FreeCAD 1.1\bin\freecadcmd.exe"
+
+
+
+# "C:\Program Files\FreeCAD 1.1\bin\freecadcmd.exe" export_all_step_files.py "C:\Users\jhosk\git_repos\OpenBreatherDesignFiles\Guppy_mCCR_design_files" "*openbreather*.FCStd"
